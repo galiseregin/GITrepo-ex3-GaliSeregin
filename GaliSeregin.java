@@ -1,7 +1,7 @@
 public class GaliSeregin{
 	public static void main(String[] args) {
 		for (int i=1;i<=10; i++) {
-			System.out.println("GaliSeregin"+i);
+			System.out.println("Gali_Seregin (="+i);
 		}
 	}
 }
